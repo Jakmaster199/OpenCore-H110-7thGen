@@ -10,6 +10,12 @@
 
 ***
 
+## MacOS Info Screenshots 
+
+<a href="//i.imgur.com/J36qDIU.png"><img src="//i.imgur.com/J36qDIU.png" height="400px"></a> <a href="//i.imgur.com/LgBKGsm.png"><img src="//i.imgur.com/LgBKGsm.png" height="400px"></a>
+
+***
+
 ## Features
 
 - [x] CPU Power Management (Not Tested)
