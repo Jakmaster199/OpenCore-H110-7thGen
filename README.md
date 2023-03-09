@@ -1,4 +1,4 @@
-# **OpenCore 0.8.9 for GA-H110M-S2H + i5-7400**
+# **OpenCore 0.9.0 for GA-H110M-S2H + i5-7400**
 
 ## Hardware Configuration
 
